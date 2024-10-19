@@ -18,7 +18,7 @@
 // 4
 
 
-
+// by using function
 
 // function First_digit(a) {
 //     let res = a / 1000;
@@ -26,6 +26,11 @@
 // }
 
 // First_digit(6758)
+
+
+
+
+//  simple way
 
 
 let a = 5678
